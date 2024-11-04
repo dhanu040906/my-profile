@@ -53,7 +53,8 @@
     position: absolute;
     left: 50%;
     top: -5px;
-    transform: translateX(-50%);
+    align-items:center;
+    justify-content:center;
     border-width: 8px;
     border-style: solid;
     border-color:  blue transparent transparent transparent;
