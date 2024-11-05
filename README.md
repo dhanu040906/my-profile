@@ -1,1 +1,1 @@
-This project is about buliding a personal portfolio website using react.If the background image is not loading from launching it from vite there is a my profile.html file  can be used which is included in the repository 
+This project is about buliding a personal portfolio website using react.If the background image is not loading from launching it from vite there is a my profile.html file  can be used which is included in the repository. The link of the profile page is https://dhanu040906.github.io/MY-PROFILE-PAGE/my%20profile.html
